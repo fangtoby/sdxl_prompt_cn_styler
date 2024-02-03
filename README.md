@@ -1,4 +1,7 @@
-# SDXL Prompt Styler, a custom node for ComfyUI
+# SDXL Prompt Styler, a custom node for ComfyUI, 中文名称对照版
+
+### SDXL Prompt CN Styler
+![SDXL Prompt Styler Screenshot](examples/sdxl_prompt_cn_styler.png)
 
 ### SDXL Prompt Styler
 ![SDXL Prompt Styler Screenshot](examples/sdxl_prompt_styler.png)
